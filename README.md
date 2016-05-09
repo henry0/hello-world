@@ -7,3 +7,4 @@ short description
 4. Write a comment message that describes your changes.
 5. Click Commit changes button.
 
+git add to index
